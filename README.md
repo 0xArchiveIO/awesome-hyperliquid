@@ -52,6 +52,8 @@
 
 - [Hyperliquid builder fees report](https://floatout.xyz/hyperliquid-builder-revenue) - Daily gross USDC builder fees split by perps, HIP-3, HIP-4 and spot, with daily builder address counts, scanned from node fill data. CSV and JSON downloads, per-day source hashes, CC BY 4.0.
 
+- [RektCheck](https://roastmytrade.com/) — Read-only Hyperliquid on-chain wallet auditor, perpetual fee comparator (vs Binance/Bybit/dYdX/Lighter & Builder Fees), hourly funding calculator, and Smart Money whale tracker.
+
 ### X/Twitter Accounts
 
 - [Omnia.hl](https://x.com/0xOmnia)
